@@ -1,6 +1,10 @@
 <?php
 
-echo "hello"
-echo "hello"
+$a = 10;
+if($a == $b){
+    echo "hi";
+}
+echo "hello";
+echo "hello";
 
 ?>
