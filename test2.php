@@ -5,6 +5,6 @@ if($a == ""){
     echo "hi";
 }
 echo "hello";
-echo "hello";
+echo "Hi";
 
 ?>
